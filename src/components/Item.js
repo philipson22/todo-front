@@ -2,7 +2,7 @@ import React from "react";
 
 class Item extends React.Component {
   render() {
-    return <fragment> item created</fragment>;
+    return <div> item created</div>;
   }
 }
 
